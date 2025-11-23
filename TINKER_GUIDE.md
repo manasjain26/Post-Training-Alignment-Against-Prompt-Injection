@@ -39,6 +39,12 @@ TINKER_API_KEY=your_api_key_here
 
 ### 3. Prepare Your Dataset
 
+If using gated datasets (e.g., `walledai/AdvBench`), add your Hugging Face token to `.env` in the project root:
+
+```
+HF_TOKEN=hf_your_read_token
+```
+
 The dataset should be in JSONL format with `prompt`, `chosen`, and `rejected` fields:
 
 ```bash

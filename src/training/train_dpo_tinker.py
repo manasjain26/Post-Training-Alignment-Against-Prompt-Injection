@@ -8,7 +8,7 @@ training platform, which handles distributed training infrastructure.
 import argparse
 import json
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Optional
 import sys
 from tqdm import tqdm
 
