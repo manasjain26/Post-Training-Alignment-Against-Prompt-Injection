@@ -325,6 +325,7 @@ def maybe_api_generate(num: int, engine: Optional[str], timeout_s: float = 30.0)
         # )
         instruction = ""
         samples = _gemini_generate(instruction, num, model, timeout_s=timeout_s)
+        print(samples)
         return [{"prompt": s, "source": "synthetic_gemini", "category": "adversarial"} for s in samples if s]
     
     return _templatize(num, max_per_pattern=max(1, num // max(1, len(PATTERNS))))
