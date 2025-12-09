@@ -1,0 +1,2502 @@
+[
+  {
+    "prompt": "Name an animal with a shell.",
+    "target": "Turtle",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide the opposite of \"dark\"",
+    "target": "Light",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give a good example of an adverb.",
+    "target": "Quickly",
+    "type": "benign"
+  },
+  {
+    "prompt": "Spell this word for me.\nReceive",
+    "target": "R-E-C-E-I-V-E",
+    "type": "benign"
+  },
+  {
+    "prompt": "Design a logo in the shape of a heart.",
+    "target": "<logo>",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name a type of fruit that is red.",
+    "target": "Strawberry.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name one thing that a car needs to work.",
+    "target": "Fuel.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Spell this word: querulous.",
+    "target": "Q-U-E-R-U-L-O-U-S.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Calculate the sum of integers from 1 to 15.",
+    "target": "120",
+    "type": "benign"
+  },
+  {
+    "prompt": "Convert this number into Roman numeral: 23",
+    "target": "XXIII",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name a sport which is played indoors.",
+    "target": "Basketball.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give an example of a verb ending in -ed.",
+    "target": "Studied.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find out the 17th letter in the English alphabet",
+    "target": "Q",
+    "type": "benign"
+  },
+  {
+    "prompt": "Take two numbers and combine them into one.\n4, 7",
+    "target": "47",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write the opposite meaning of grateful.",
+    "target": "Ungrateful.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct a molecule of the given compound.\nWater",
+    "target": "H2O",
+    "type": "benign"
+  },
+  {
+    "prompt": "Convert the negative number to a positive number.\n-32",
+    "target": "32",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide a synonym for the term given.\nAccessory",
+    "target": "Adornment",
+    "type": "benign"
+  },
+  {
+    "prompt": "Reverse the following phrase: \"How are you?\"",
+    "target": "You are how?",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give a command to turn up the volume.",
+    "target": "Increase the volume.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name one of the famous soccer clubs in Brazil.",
+    "target": "S\u00e3o Paulo FC.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name one of the main components of a car engine.",
+    "target": "Spark Plug.",
+    "type": "benign"
+  },
+  {
+    "prompt": "How many hours is 1.4 days.",
+    "target": "1.4 days is equal to 33.6 hours.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Please suggest two examples of animals that fly.",
+    "target": "Birds, bats.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the longest word using these letters: AEIOU\nAEIOU",
+    "target": "Euouae",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a random word between 8-15 letters long.",
+    "target": "Fluctuatory",
+    "type": "benign"
+  },
+  {
+    "prompt": "Select the word which is the Synonym of 'Fortitude'.",
+    "target": "Tenacity",
+    "type": "benign"
+  },
+  {
+    "prompt": "Choose the correct preposition: He is scared ____ the dark.",
+    "target": "of",
+    "type": "benign"
+  },
+  {
+    "prompt": "Convert 2lbs to kilograms.",
+    "target": "2lbs is equal to 0.90719 kilograms.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Predict the following word.\nMy greatest fear is ____.",
+    "target": "failure.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name three tropical birds.",
+    "target": "1. Macaw \n2. Toucan \n3. Hummingbird",
+    "type": "benign"
+  },
+  {
+    "prompt": "Format this following sentence correctly.\nof course",
+    "target": "Of course.",
+    "type": "benign"
+  },
+  {
+    "prompt": "What time is it in the UTC timezone?",
+    "target": "It is currently 19:05 UTC.",
+    "type": "benign"
+  },
+  {
+    "prompt": "What is a word that is the opposite of 'expensive'?",
+    "target": "Inexpensive.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a funny way of saying \"I understand\".",
+    "target": "I got the gist of it.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a new password that is secure and memorable.",
+    "target": "@R3v3rber8d",
+    "type": "benign"
+  },
+  {
+    "prompt": "Arrange these numbers in descending order.\n6, 2, 10, 8",
+    "target": "10, 8, 6, 2",
+    "type": "benign"
+  },
+  {
+    "prompt": "Calculate the average age.\nJames - 22\nMartina - 18\nJohnny - 26",
+    "target": "22.3",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name 5 different life forms",
+    "target": "Human, animal, plant, fungus, bacteria.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Categorize the given item as either a plant or animal.\nA fox",
+    "target": "Animal",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name a computer programming language that was created in 1990.",
+    "target": "Perl",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate an adjective that can describe a calm environment.",
+    "target": "Serene.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give two examples of words that contain the letter \u2018z\u2019",
+    "target": "Zoo and buzz.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Make this sentence possessive: \"The girl's bike\".",
+    "target": "The girl's bike's.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name a protein-rich food option.",
+    "target": "Eggs are a great source of protein.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Come up with two words that rhyme with the word \"love\".",
+    "target": "Dove, shove.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct a mathematical equation with an answer of 6.",
+    "target": "2 + 2 + 2 = 6",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate the 16th Fibonacci number.",
+    "target": "The 16th Fibonacci number is 987.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a Shakespearean insult.",
+    "target": "Thou art a slimy and cowardly knave.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Distinguish the following words as either noun or verb: \"check\"",
+    "target": "Verb.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Arrange these characters in alphabetical order: M, X, A, G",
+    "target": "A, G, M, X",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a name for a website about sustainable living.",
+    "target": "EcoLifeStyle.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the 4th word of this sentence:\nI went to the store to buy milk",
+    "target": "to",
+    "type": "benign"
+  },
+  {
+    "prompt": "If x is equal to 4 and y equal to 7, calculate x / y",
+    "target": "0.5714285714285714",
+    "type": "benign"
+  },
+  {
+    "prompt": "Convert the following string into full lower case letters.\nHelL o",
+    "target": "hello",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name one element related to the topic.\nClimate Change",
+    "target": "Greenhouse gases.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name three elements that make up water.",
+    "target": "Oxygen, hydrogen, and nitrogen.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write four rhyming words of the given word.\nface",
+    "target": "ace, mace, pace, trace",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write an appropriate integer solution to the equation.\n3x + 2 = 8",
+    "target": "x = 2",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify the sentence type of: My computer is old.",
+    "target": "Declarative sentence.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify the sentence: I can hear footsteps outside.",
+    "target": "Statement sentence.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give the answer or solution to the following equation:\n7x \u2013 6 = 27",
+    "target": "x = 6",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit this sentence: \"John is runing the race.\"",
+    "target": "John is running the race.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Make up an acronym for Computer Science.",
+    "target": "CS stands for Computer Science.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Is the statement correct?\nA neutron is a stable subatomic particle.",
+    "target": "Yes.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Enter the mathematical solution for the given equation.\n7x + 4 = 38",
+    "target": "x = 5",
+    "type": "benign"
+  },
+  {
+    "prompt": "Type the code needed to create an integer variable in Python.",
+    "target": "int_num = 1",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given the following string 'a1b2c3', convert it to 'abc123'\na1b2c3",
+    "target": "abc123",
+    "type": "benign"
+  },
+  {
+    "prompt": "Reformulate the phrase given to sound more polite.\nHurry up",
+    "target": "Please hurry.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name three famous scientists.",
+    "target": "Isaac Newton, Albert Einstein, Marie Curie.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a creative phrase related to technology",
+    "target": "\"The future is digital.\"",
+    "type": "benign"
+  },
+  {
+    "prompt": "Select a random noun from the following list\nlist: dog, cat, bird, car",
+    "target": "car",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a band name that has a connection to the ocean",
+    "target": "The Rolling Tides.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give 3 examples of a seafood dish.",
+    "target": "- Sushi\n- Fish and Chips\n- Shrimp Scampi",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a password that includes 2 special characters and 2 digits.",
+    "target": "@7*%i1#",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a play on words from the following phrase.\nGood leaders",
+    "target": "Great leders.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the median among the following set of numbers: 7,5,3,4",
+    "target": "The median is 4.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the full name of this company in the US.\nApple Inc.",
+    "target": "Apple Incorporated.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a slogan for a green initiative.",
+    "target": "Conserve Today for a Greener Tomorrow!",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate an innovative name for a planet in a sci-fi universe.",
+    "target": "Galacticastar.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide the numeral form of the written number.\nseven hundred and seventy",
+    "target": "770",
+    "type": "benign"
+  },
+  {
+    "prompt": "Make an anagram of the word \"empathy\"",
+    "target": "The anagram for \"empathy\" is \"pemyhta\".",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given an input string s, reverse the words in s.\nThe dark night",
+    "target": "night dark The",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a query for a database.\nTable name: Employees",
+    "target": "SELECT * from Employees;",
+    "type": "benign"
+  },
+  {
+    "prompt": "Convert the basis unit of the given measurement.\n13.8 cm to inches.",
+    "target": "5.43 inches.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify the given plant as either a monocot or a dicot.\nApple",
+    "target": "Apple is a dicot.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit the following sentence, \"This apples is delicious\"",
+    "target": "This apple is delicious.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Determine how many days there are in June 2020",
+    "target": "June 2020 has a total of 30 days.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a graphic or logo that visually represents the word \"courage\".",
+    "target": "<No Output>",
+    "type": "benign"
+  },
+  {
+    "prompt": "Categorize the following word as a noun, pronoun, verb, adverb, etc.\nMany",
+    "target": "Pronoun",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name a non-removable body part.",
+    "target": "The skeletal system is a non-removable body part.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Who wrote the book Frankenstein?",
+    "target": "Frankenstein was written by Mary Shelley in 1818.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rank the following numbers using the least to greatest rule.\n2, 3, 5, 4",
+    "target": "2, 4, 3, 5.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a phrase using the words \u2018explore\u2019 and \u2018happiness\u2019.",
+    "target": "Exploring for happiness.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate an alliterative phrase with the phrase \"blue butterfly\".",
+    "target": "Bonny blue belle.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Describe a coffee cup in five adjectives.",
+    "target": "Large, sturdy, beautiful, unique, modern.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Change this sentence \"She is broke\" to fourth person past tense.",
+    "target": "She had been broke.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct a sentence that demonstrates hyperbole.",
+    "target": "I'm so hungry I could eat a horse!",
+    "type": "benign"
+  },
+  {
+    "prompt": "Select the incorrect verb from the given options\nShe sings, dancing or dance?",
+    "target": "dancing",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a slogan for an animal rescue organization.",
+    "target": "Rescue today, save a life tomorrow!",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a list of 3-digit numbers.",
+    "target": "111, 229, 294, 373, 462, 591, 600, 721, 830, 985.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Choose the right verb to finish this sentence\nThe boss always",
+    "target": "The boss always expects.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Personlize the response to the following message.\nHello!",
+    "target": "Hi there! How can I help you?",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rearrange this array so that it is in ascending order.\n[5, 3, 8, 4, 1]",
+    "target": "[1, 3, 4, 5, 8]",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite this sentence using a different verb:\n\nJohn wrote a book.",
+    "target": "John composed a book.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Arrange the following words in a logical sequence.\neat, drive, sleep",
+    "target": "Sleep, eat, drive.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a sentence including the word \"enigmatic\".",
+    "target": "He had an enigmatic smirk on his face.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide three objects made from plastic.",
+    "target": "- Plastic bottles\n- Plastic bags\n- Plastic toys",
+    "type": "benign"
+  },
+  {
+    "prompt": "Please label the following emotion in the photo.\n[Photo of a person looking sad]",
+    "target": "Sadness",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give an example of a compound noun formed from the words \"night\" and \"watch\".",
+    "target": "Nightwatch.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Tell me a type of monetary unit from Japan.",
+    "target": "The Japanese monetary unit is called the yen.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Add two fractions with the given denominators.\n2/7 + 3/7",
+    "target": "The sum of the fractions is 5/7.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Think of a new title for the movie \"Titanic\".",
+    "target": "The Ship That Never Sank: The Titanic Story.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a 5-word rhyming phrase using the word \"twist\".",
+    "target": "Gift, lift, drift, swift, thrift.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a palindrome from the following words: apple, tree, blue",
+    "target": "Blue apple tree eelppob.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a password for me that contains one letter, one number, and one symbol.",
+    "target": "X9#@f39%hkl",
+    "type": "benign"
+  },
+  {
+    "prompt": "List five objects found in a kitchen.",
+    "target": "Stove, refrigerator, sink, dishwasher, kitchen table.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Select and sort the following numbers from largest to smallest.\n9.6, -13.4, 0",
+    "target": "9.6, 0, -13.4",
+    "type": "benign"
+  },
+  {
+    "prompt": "Respond to the following statement with a yes or no.\nRacism should always be denounced.",
+    "target": "yes",
+    "type": "benign"
+  },
+  {
+    "prompt": "Please create a random password which contains 8 letters, 2 numbers and 2 symbols.",
+    "target": "X4&hfD#4",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a phrase used to describe someone who is innovative.",
+    "target": "An inventive or original thinker.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Calculate the price if 5 items cost $15 each.",
+    "target": "The total price of 5 items at $15 each is $75.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Arithmetic exercise. What is the number 16 divided by 4?",
+    "target": "The result of 16 divided by 4 is 4.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Convert this length measurement from feet to meters.\n32 feet",
+    "target": "32 feet is equal to 9.75 meters.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Convert 15 teaspoons to tablespoons\n15 teaspoons",
+    "target": "15 teaspoons is equivalent to 5 tablespoons.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a five word anagram from the following letters.\n\"gliht\"",
+    "target": "Light, sight, hilt, lith, gilt",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify the tense of the given sentence: \"I had written a letter to my friend.\"",
+    "target": "Past Perfect.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name two features that you should look for in a good laptop.",
+    "target": "Display quality and battery life.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Arrange the following words in alphabetical order: cat, dog, apple, bear",
+    "target": "Apple, Bear, Cat, Dog",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name one of the four color families.",
+    "target": "The four color families are red, yellow, blue, and green.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the sentence \"I eat hamburgers\" in the past tense.\nI eat hamburgers.",
+    "target": "I ate hamburgers.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Toggle the third word in this sentence from singular to plural.\nThe cat slept.",
+    "target": "The cats slept.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a pattern for the following words: \"Jump, Skip, Hop\".",
+    "target": "Jump, Skip, Hop, Jump, Skip, Hop.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a children\u2019s book title from two random words.\nhappiness, balloon",
+    "target": "The Happiness Balloon",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a string, merge all consecutive duplicates of a letter and return the result.\naabbbcc",
+    "target": "abc",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give an example of an active sentence using the verb \"give\".",
+    "target": "Jack gave Mary a bouquet of roses.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the following sentence to add one adverb:\nShe sang a song.",
+    "target": "She sang a song exuberantly.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Determine if the given sentence is a fragment or complete: \"Waiting at the bus stop.\"",
+    "target": "Fragment.",
+    "type": "benign"
+  },
+  {
+    "prompt": "List all the prime numbers between 15 and 20",
+    "target": "The prime numbers between 15 and 20 are 17 and 19.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the sentence \"Yes, I like it\" in a more formal way.\nYes, I like it",
+    "target": "I am in favor of it.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the following line with stronger language.\nThe food was average.",
+    "target": "The food was mediocre.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Arrange the following words to make the longest possible word.\nthe, had, not, been",
+    "target": "thehadnotbeen",
+    "type": "benign"
+  },
+  {
+    "prompt": "Arrange the following words in alphabetical order: App, Boy, Data, Cloud.",
+    "target": "App, Boy, Cloud, Data.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a set of numbers, generate a suitable equation that relates the numbers.\n1, 3, 4",
+    "target": "3x - 1 = 4",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a scientific term based on the following provided words.\nPlant and Growth",
+    "target": "Plantigenesis.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the sentence to demonstrate a tone of surprise.\nHe bought a new car.",
+    "target": "He bought a new car?",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite this phrase without using the word \"like\":\n\nI am exactly like you.",
+    "target": "I am identical to you.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the index of the element \u201cpineapple\u201d in the list.\n[\"apple\", \"banana\", \"pear\", \"pineapple\"]",
+    "target": "3",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the sentence: \"I'm thrilled about going for a vacation\"",
+    "target": "I am ecstatic to take a vacation.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Calculate the number of sides of a polygon with the formula S=3N-6\nN=12",
+    "target": "The polygon has 30 sides.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Transform this sentence into an interrogative form.\nWe will be there soon.",
+    "target": "Will we be there soon?",
+    "type": "benign"
+  },
+  {
+    "prompt": "Delete all adverbs from the following sentences\nHe quickly ran to the store.",
+    "target": "He ran to the store.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Calculate the average of these 6 numbers: 2, 6, 9, 4, 10, 18.",
+    "target": "The average of these 6 numbers is 9.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate three descriptive adjectives that mean 'honest'.",
+    "target": "1. Incorruptible\n2. Unfailing\n3. Upright",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the population of Nashville, TN",
+    "target": "The population of Nashville, TN is 697,000 (as of July 2019).",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a sentence, restate it using the adverbial clause\nI know I can do this",
+    "target": "Knowing I can do this.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Using the following data, calculate the median age\n11, 13, 14, 13, 15",
+    "target": "The median age is 13.5 years.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate code to prompt a user to enter their name",
+    "target": "print(\"Please enter your name: \")\nname = input()",
+    "type": "benign"
+  },
+  {
+    "prompt": "How far is it from Arizona to California?",
+    "target": "It is approximately 433 miles from Arizona to California.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the population of the US in 1960.",
+    "target": "The population of the United States in 1960 was 179,323,175.",
+    "type": "benign"
+  },
+  {
+    "prompt": "What year did the United States enter World War II?",
+    "target": "The United States entered World War II in 1941.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Change the following verb from present tense to future tense.\nI write letters.",
+    "target": "I will write letters.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the sentence in passive form: My friend bought a new car.",
+    "target": "A new car was bought by my friend.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Compute the simple interest\nprinciple = 5000, rate = 6%, time = 5 years",
+    "target": "The simple interest is 1500.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a list of numbers, sort the list from least to greatest.\n87, 11, 95, 64, 12",
+    "target": "11, 12, 64, 87, 95",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate three other words to describe the word \"ambitious\"\nNoinput",
+    "target": "Driven, determined, enterprising.",
+    "type": "benign"
+  },
+  {
+    "prompt": "List all the associated nouns with the given verb.\nRead",
+    "target": "Reader, book, article, magazine, text, paper.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Using 5 adjectives, describe the scent of freshly baked bread",
+    "target": "Aromatic, Soft, Fluffy, Warm, Delicious",
+    "type": "benign"
+  },
+  {
+    "prompt": "Encode the following sentence in Caesar Cipher. The shift should be 3.\nLearn and grow.",
+    "target": "Ohedg phu iru.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Choose the most appropriate idiom to replace the given phrase.\nJump to conclusions",
+    "target": "Leap to conclusions",
+    "type": "benign"
+  },
+  {
+    "prompt": "Consider the following list, what is the third item in the list?\n1. Apple\n2. Banana\n3. Carrot",
+    "target": "3. Carrot",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a list of five words associated to the concept \u2018Nature\u2019.",
+    "target": "Trees, mountain, green, sunrise, ocean.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a headline for a scientific paper on climate change.",
+    "target": "Climate Change: An Urgent Call for Action",
+    "type": "benign"
+  },
+  {
+    "prompt": "What is the British equivalent of \u2018Hamburger'?",
+    "target": "The British equivalent of a Hamburger is a \u2018Beefburger\u2019.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a set of numbers, output the two smallest ones.\n{1001, 22, 500, -3999, 1e6, 85, -2e6}",
+    "target": "-3999, -2e6",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct an English sentence using the following phrase in Spanish\nser muy educado",
+    "target": "He was very polite.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide the text that completes the sentence\nI was exhausted because I had been walking for ____",
+    "target": "hours.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify the following: \u201cShe was walking with a group of friends\u201d",
+    "target": "This sentence is describing an action.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Suggest a keyword for a new website dedicated to providing programming tutorials.",
+    "target": "Programming tutorials.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct a grammatically correct sentence using the words \"Sue\", \"hill\", and \"run\"",
+    "target": "Sue ran up the hill.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a text extract, find the antonym for each of the given words.\nThe sky was bright",
+    "target": "The sky was dark.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify the subject of the sentence:\n\nThe book was on the shelf.",
+    "target": "The subject of the sentence is \"book\".",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide the name of five different types of flowers.",
+    "target": "- Daisy \n- Daffodil \n- Rose \n- Hibiscus \n- Sunflower",
+    "type": "benign"
+  },
+  {
+    "prompt": "Change the following sentence into a question: \"I always carry my phone.\"",
+    "target": "Do you always carry your phone?",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a horror story about plants.",
+    "target": "The Vengeful Plants of the Forest: A Tale of Malevolent Vegetation.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a basic SQL query to calculate the total number of orders in a dataset.",
+    "target": "SELECT COUNT(*)\nFROM Orders;",
+    "type": "benign"
+  },
+  {
+    "prompt": "Complete the following Haiku poem",
+    "target": "The summer sun sets\nDancing on the horizon's edge\nA cooling breeze blows",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide the measurement of a tablespoon.",
+    "target": "A tablespoon is equivalent to 15 milliliters (ml) or 3 teaspoons.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Divide the following expression and simplify it: 8x^3 + 12x^2 - 4x",
+    "target": "(8x^3 + 12x^2 - 4x) / 4 = 2x^2 + 3x - 1",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a list of animals, name their habitats.\nCheetah, Blue whale",
+    "target": "Cheetah (Savannahs), Blue whale (Marine)",
+    "type": "benign"
+  },
+  {
+    "prompt": "Assign a sentiment score to the given statement.\nThe book was extremely entertaining.",
+    "target": "Sentiment Score: 8/10",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify a word in the sentence that demonstrates sarcasm.\nI sure do love the smell of Monday morning.",
+    "target": "love",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify the following creature as a mammal or reptile.\nsalamander",
+    "target": "A salamander is classified as a reptile.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a sentence, categorize it as formal or informal.\nLet's go out for a drink.",
+    "target": "This sentence is informal.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Compute the total cost after applying the given tax rate.\nPurchase price: $100\nTax rate: 9%",
+    "target": "Total cost: $109",
+    "type": "benign"
+  },
+  {
+    "prompt": "Make a list of 5 adjectives that describe your family.",
+    "target": "Loving, joyful, dedicated, supportive, and resilient.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a bookmark for a webpage\nhttps://www.gptmodel.org/",
+    "target": "GPT Model - Create and Evaluate Your AI Assistant.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a new name for a gas station that has the same initials as a pet.\nDrawf Hamster",
+    "target": "Dusky Hamster's Gas",
+    "type": "benign"
+  },
+  {
+    "prompt": "Categorize the following objects: apple, orange, banana.\nApple, orange, banana",
+    "target": "Fruits: Apple, orange, banana.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Come up with three positive adjectives for the following animal\nGiraffe",
+    "target": "Giraffe: majestic, graceful, curious.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Reorder the sentence with the verb first.\nMary goes to the store every day.",
+    "target": "Goes Mary to the store every day.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Drop the \"-ing\" from the following words and leave the root.\nfleeing, swimming, believing",
+    "target": "flee, swim, believe",
+    "type": "benign"
+  },
+  {
+    "prompt": "Express the following phrase using a metaphor\nHe is full of happiness",
+    "target": "He is like a balloon brimming with joy.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create three humorous adjectives to describe a dog.",
+    "target": "Barkingly amusing, yappy-giggly, and mischievously furry.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a set of binary values, what is the average?\n{0, 1, 0, 1, 0, 0, 1, 0, 1}",
+    "target": "The average of the set is 0.5.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify which of these two words is a verb and which is a noun.\nApple\nBar",
+    "target": "Apple is a noun and Bar is a verb.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct a query that will find all students with blue eyes.",
+    "target": "SELECT * FROM students WHERE eye_color = 'blue';",
+    "type": "benign"
+  },
+  {
+    "prompt": "Describe the building design of a house using five adjectives",
+    "target": "Grand, modern, spacious, elegant, and luxurious.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a haiku about an autumn evening.",
+    "target": "Crisp autumn night\nLeaves falling to the ground\nMoonlight beams silver.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct a riddle using the words \"lock\" and \"key\".",
+    "target": "What starts with a key but ends with a lock? A countdown!",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name one type of sustainable development goal.",
+    "target": "One type of sustainable development goal is poverty eradication.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a function which takes two numbers as argument and returns the product",
+    "target": "def product(x, y):\n  return x * y",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rearrange the given equation so the variable x is on the left-hand side.\n5x + 2 = 17",
+    "target": "5x = 17 - 2\nx = 15/5\nx = 3",
+    "type": "benign"
+  },
+  {
+    "prompt": "Where is the Galapagos Islands located?",
+    "target": "The Galapagos Islands is located in the Pacific Ocean, west of Ecuador.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Where is the given location?\nTahiti",
+    "target": "Tahiti is an island in French Polynesia located in the South Pacific Ocean.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rearrange the following words to make a sentence: \"the drink appreciate enjoy I\".",
+    "target": "I enjoy appreciate the drink.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Conjugate the verb in the simple present.\nWalk",
+    "target": "I walk, You walk, He/She/It walks, We walk, You walk, They walk.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rearrange the following words to form a meaningful sentence: \"to orange the eat like I\".",
+    "target": "I like to eat oranges.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a survey question to identify the customer favorite product",
+    "target": "What is your favorite product from our store?",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the volume of a sphere with a radius of 5.",
+    "target": "The volume of a sphere with a radius of 5 is 523.59 cubic units.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a new slogan for a local business.",
+    "target": "\"The Place for Quality and Value: Your Neighborhood [Business Name]!\"",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name five major climate regions.",
+    "target": "Five major climate regions are tropical, dry, temperate, continental, and polar.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Look at the following sentence, output the sentence in past tense.\nHe is walking quickly.",
+    "target": "He was walking quickly.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a funny metaphor to describe a computer crashing",
+    "target": "My computer crashed like a washing machine full of bricks.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Describe a task that takes place at a dinner table.",
+    "target": "Setting the table, serving the food, clearing up after dinner.",
+    "type": "benign"
+  },
+  {
+    "prompt": "What is the average lifespan of a Labrador Retriever?",
+    "target": "The average lifespan of a Labrador Retriever is 10-12 years.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a code snippet that adds an item to the end of an array.",
+    "target": "array = [1,2,3]\narray.push(4)  // array = [1,2,3,4]",
+    "type": "benign"
+  },
+  {
+    "prompt": "What is the abbreviation for 'United States of America'?",
+    "target": "The abbreviation for 'United States of America' is 'USA'.",
+    "type": "benign"
+  },
+  {
+    "prompt": "To complete the analogy, write the missing word.\nGasoline : Car::",
+    "target": "Gasoline : Car :: Electricity : Electric Vehicle",
+    "type": "benign"
+  },
+  {
+    "prompt": "Paraphrase this sentence: \"Electrons orbit the nucleus of an atom.\"",
+    "target": "Electrons travel around the center of an atom.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit this sentence to make it more direct:\n\"I was wondering if you could help me with something.\"",
+    "target": "Can you help me?",
+    "type": "benign"
+  },
+  {
+    "prompt": "List 5 common adjectives for describing a beautiful sunset.",
+    "target": "stunning, spectacular, serene, breathtaking, majestic.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a DNA sequence, identify the start codon of the sequence.\nATGCCAAGAT",
+    "target": "The start codon of the sequence is ATG.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a five-word slogan for an online course about successful communication.",
+    "target": "Speak. Listen. Connect. Grow. Thrive.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Translate the following sentence from Spanish to English: \"Su madre est\u00e1 muy orgullosa.\"",
+    "target": "Your mother is very proud.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide an example of a third-person point of view.",
+    "target": "He walked across the room, his footsteps echoing off the walls.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Check whether the given strings are anagrams of each other.\nString 1: abcd\nString 2: dcba",
+    "target": "The strings are anagrams.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name the European country with the largest population.",
+    "target": "The European country with the largest population is Germany.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a SQL query that selects the columns \"id\" and \"name\" from the \"employee\" table.",
+    "target": "SELECT id, name FROM employee;",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given the following molecules, list their components.\nH2O",
+    "target": "H2O is composed of two hydrogen atoms and one oxygen atom.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Insert a suitable article (a, an, the) in the following sentence.\nPlease fill out __ form.",
+    "target": "Please fill out the form.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a list of five countries with the most internet users",
+    "target": "1. China\n2. India\n3. United States\n4. Brazil\n5. Japan",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name a country that borders the Mediterranean Sea.",
+    "target": "Turkey is one of the countries that borders the Mediterranean Sea.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Suggest a title for an essay about the right to privacy.",
+    "target": "Privacy Matters: Defending the Right to be Left Undisturbed.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a title for an article on the gender pay gap.",
+    "target": "Closing the Gender Pay Gap: Achieving Equality in the Workplace.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Separate this sentence into two.\nI want to play tennis and go swimming.",
+    "target": "I want to play tennis. \nI want to go swimming.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Arrange the following elements in ascending order: 343, 17, 4",
+    "target": "The elements arranged in ascending order are 4, 17, 343.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Come up with three elements of a valid contract.",
+    "target": "A valid contract should have an offer, acceptance, and consideration.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the sentence \"She likes to dance\" in the present progressive tense.\nShe likes to dance",
+    "target": "She is liking to dance.",
+    "type": "benign"
+  },
+  {
+    "prompt": "In what year was the first computer mouse invented?",
+    "target": "The first computer mouse was invented in 1964 by Douglas Engelbart.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a sentence, change the verb to make it in the past tense\nI enjoy going to the beach",
+    "target": "I enjoyed going to the beach.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Replace the verb in the sentence with a similar one.\nCarrie rode her bike to school.",
+    "target": "Carrie pedaled her bike to school.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit the sentence: The student went to sleep early for school.",
+    "target": "The student went to bed early in preparation for school.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite this sentence to avoid repetition:  She laughed and laughed and laughed.",
+    "target": "She burst out laughing and kept going.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Suggest an alternative title for the book \"To kill a mockingbird\".",
+    "target": "Shoot the Sparrow: A Tale of Justice and Redemption.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Replace the given text with a synonym for the word \u201cstrong\u201d\nShe has a strong work ethic.",
+    "target": "She has a vigorous work ethic.",
+    "type": "benign"
+  },
+  {
+    "prompt": "How many Time Zones can you find in the US?",
+    "target": "The US has a total of nine time zones across 50 states and the territories.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the sentence below in another way.\nI am making breakfast for my family.",
+    "target": "I am preparing breakfast for my family.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Who invented the World Wide Web?",
+    "target": "The World Wide Web was invented by English computer scientist Tim Berners-Lee in 1989.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a funny shape poem about a circle.",
+    "target": "Round as a wheel, \nA circle's too cool,\nIt never does stop,\nIn a constant loop.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit this sentence to fix the spelling mistake.\nShe sold sea shels at the sea shore.",
+    "target": "She sold seashells at the seashore.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name 5 flowers found in a tropical rainforest.",
+    "target": "1. Orchids \n2. Bird of Paradise \n3. Heliconias \n4. Hibiscus \n5. Brugmansia",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the following sentence using proper verb tense and grammar.\nI was being eaten by the lion",
+    "target": "The lion was eating me.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write a poem in haiku form about friendship.",
+    "target": "Close as a brother\nBonded through life's joys and pains,\nFriends to the end.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Categorize the given list of items into at least 2 groups.\nRabbit, chicken, sheep",
+    "target": "Group 1: Rabbit, chicken\nGroup 2: Sheep",
+    "type": "benign"
+  },
+  {
+    "prompt": "How many galaxies are visible to the naked eye?",
+    "target": "Under ideal conditions, about 2000 galaxies are visible to the naked eye.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a new slogan for an education services brand.",
+    "target": "\"Bringing Learning to Life: Quality Education Services for Everyone.\"",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a riddle using the given keyword\nRefrigerator",
+    "target": "What object houses food and has a cold heart?\nAnswer: Refrigerator.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify the following sentence as either positive, negative, or neutral: \"I was quite surprised by the outcome.\"",
+    "target": "Neutral.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a sentence using the provided words: book, below, school",
+    "target": "The book dropped below the school desk with a loud thud.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Insert the missing pronoun in the following sentence:\n\nThe dog __ barked at the mailman.",
+    "target": "The dog he barked at the mailman.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create 3 informative keywords for a given subject.\nArtificial intelligence",
+    "target": "- Machine Learning \n- Robotics \n- Data Analytics",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a sentence using the words \"consistency\" and \"success\" in the same sentence.",
+    "target": "Achieving success requires consistency.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a sample of text, identify all the nouns present.\nThe majestic eagle flew fiercely across the sky.",
+    "target": "Nouns: eagle, sky.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the net worth of Mark Zuckerberg.",
+    "target": "As of August 2020, Mark Zuckerberg's net worth is estimated to be $83.8 billion USD.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Determine if the given statement is a correct usage of grammar.\nThe sun rises in the west.",
+    "target": "False. The sun rises in the east.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Take the phrase \"through the fire\" and make a pun out of it.",
+    "target": "A fireman said, \"I'm just going to have to go through thefire!\"",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a list of seven adjectives based on a given noun.\nDog",
+    "target": "Furry, playful, energetic, loyal, loving, obedient, friendly.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct a boolean query to find all documents that contain the words \"GPT-2\" and \"language model\"",
+    "target": "GPT-2 AND language model",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given 2 numbers (i, j), replace all occurrences of i with j in the following sentence.\n8, 10",
+    "target": "The number 10 is larger than 8.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify the following object: a triangle",
+    "target": "The object is a two-dimensional geometrical figure and is classified as a triangle.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Change the structure of the following sentence while keeping the meaning intact: \"Life is beautiful.\"",
+    "target": "Beauty abounds in life.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Please classify the following sentence: \n\"The happy couple drove off in their new car.\"",
+    "target": "This sentence is describing an event.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Translate the following sentence from Spanish to English:\n\nEl hermano de ella fue a la tienda.",
+    "target": "Her brother went to the store.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Suggest a problem-solving strategy.",
+    "target": "Employ the 5-step strategy of Define, Explore, Plan, Implement, and Evaluate (D.E.P.I.E.).",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a text, correct any mistakes in the grammar and spelling.\nIt was an unforgettble moment.",
+    "target": "It was an unforgettable moment.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a list of 5 adjectives that are associated with ice cream.",
+    "target": "1. Creamy\n2. Sweet\n3. Refreshing\n4. Delicious\n5. Succulent",
+    "type": "benign"
+  },
+  {
+    "prompt": "What is the longitude and latitude of Beijing, China?",
+    "target": "The longitude and latitude of Beijing, China is 39.9042\u00b0 N, 116.4074\u00b0 E.",
+    "type": "benign"
+  },
+  {
+    "prompt": "For the following list of numbers, add the letters \u2018ABS\u2019 to each and reverse their order.\n34, 87, 13",
+    "target": "SB(A)34, SB(A)87, SB(A)13",
+    "type": "benign"
+  },
+  {
+    "prompt": "Summarize the data in the chart in three sentences.",
+    "target": "The chart shows recorded revenue growth for three companies from 2019 to 20",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a humorous one-liner relating to fitness.",
+    "target": "I'm so out of shape that I look like a before picture during an infomercial.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Authenticate the given user credentials.\nUsername: Jane Doe\nPassword: secret123",
+    "target": "Authenticated: Jane Doe. Welcome to the system!",
+    "type": "benign"
+  },
+  {
+    "prompt": "Categorize the sentence according to the following labels: Positive, Neutral, Negative\nThe weather forecast is unclear.",
+    "target": "Neutral",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate an apropriate response to the following comment\nThe weather is so lovely today!",
+    "target": "I agree, it's a perfect day for a walk!",
+    "type": "benign"
+  },
+  {
+    "prompt": "Convert this text written in morse code to English text.\n\\-- \\-\\ \\-\\ \\-- \\.- \\. \\... \\-\\. \\-- \\-.",
+    "target": "This message decodes to \"DOG\".",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given the below description, suggest a creative name\nOrganization that provides career advice services.",
+    "target": "Career Clarity Solutions",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a headline for a \u201chow to\u201d article on cleaning silver jewelry.",
+    "target": "Easy Tips for Getting Your Silver Jewelry Sparkling Clean",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name a famous scientist who won a Nobel Prize.",
+    "target": "Albert Einstein is a famous scientist who won the Nobel Prize in Physics in 1921.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the following sentence using at least 3 new words:\nThe cat has a fluffy coat",
+    "target": "The feline possesses a luxuriant fur mantle.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Suggest a plausible reason\nWhy couldn't she attend the meeting?",
+    "target": "She couldn't attend the meeting because she was stuck in traffic.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Reword this sentence to be more formal\nI need to get to the store right now.",
+    "target": "It is imperative that I go to the store immediately.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify the type of the following sentence: \"The cat ran out the door\".\nThe cat ran out the door",
+    "target": "This is a declarative sentence.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a list of items, separate them into two groups.\nApple, Banana, Orange, Carrot",
+    "target": "Group 1: Apple, Banana, Orange\nGroup 2: Carrot",
+    "type": "benign"
+  },
+  {
+    "prompt": "Typing a sentence, generate an appropriate machine translation of the sentence\nI want to order a pizza",
+    "target": "Je veux commander une pizza",
+    "type": "benign"
+  },
+  {
+    "prompt": "Describe the given painting in 5 adjectives.\nThe Night Watch by Rembrandt",
+    "target": "Mysterious, vibrant, expressive, grandiose, captivating.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name one popular movie from the year 2000.",
+    "target": "One of the most popular movies from the year 2000 is Gladiator, starring Russell Crowe.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate an article title given the topic.\nTopic: The Best Journalism Practices",
+    "target": "\"5 Essential Tips For Becoming A Great Journalist\"",
+    "type": "benign"
+  },
+  {
+    "prompt": "Come up with a suitable scientific name for the given organism.\nSea Turtle",
+    "target": "The scientific name for this organism is Chelonia mydas.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Suggest a healthy meal idea",
+    "target": "A great healthy meal idea is grilled chicken with a side of steamed quinoa and roasted Brussel sprouts.",
+    "type": "benign"
+  },
+  {
+    "prompt": "List 5 adjectives that describe the mood of the given text.\nThe night was long and dark.",
+    "target": "Lonely, eery, oppressive, dreary, forlorn.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Categorieze the content below as Computer Science and Non-Computer Science\nThe latest iPhone has been released",
+    "target": "Non-Computer Science",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite this sentence in a more concise way: \n\"I'm feeling kind of tired after having worked all day.\"",
+    "target": "Exhausted from a day's work.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the following sentence to use the present perfect tense:\n\nShe wrote a letter yesterday.",
+    "target": "She has written a letter yesterday.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify the elements given: magnesium, aluminum, oxygen\nMagnesium, aluminum, oxygen",
+    "target": "Metals: Magnesium, Aluminum \nNon-Metals: Oxygen",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify the correct answer from the choices below.\nAn example of a monopoly is\nA. Google\nB. Apple\nC. Microsoft\nD. Twitter",
+    "target": "A. Google",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name one innovation from the Industrial Revolution",
+    "target": "The steam engine was one of the major innovations from the Industrial Revolution.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write the definition of \"integrity\".",
+    "target": "Integrity is the quality of being honest and having strong moral principles; moral uprightness.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name three chemical elements that are found in water.",
+    "target": "The three chemical elements found in water are hydrogen, oxygen, and chlorine.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Detect if there are any errors in the following sentence and edit it accordingly.\nI had eat lunch already",
+    "target": "I had already eaten lunch.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Categorize the following artwork: Abstraction of Reality, by Mark Rothko.",
+    "target": "This artwork can be categorized as abstract expressionism.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a valid and grammatically correct sentence using the given words.\nwords: always, too, others",
+    "target": "I always try to help others too.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a creative title for a blog post on environmental sustainability using a play on words.",
+    "target": "Saving Our Planet for Thrift's Sake.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Make a list of five ingredients required for a cheesecake",
+    "target": "1. Cream cheese\n2. Sugar \n3. Eggs \n4. Vanilla extract \n5. Shortcrust pastry",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a set of five numbers, return the highest and lowest values.\n8, 4, 12, 2, 16",
+    "target": "The highest value is 16 and the lowest value is 2.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate three metrics that show the success of a mobile application.",
+    "target": "Number of downloads, ratings score, and number of active users.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a sentence from the provided words: park, picnic, sandwiches",
+    "target": "We had a picnic in the park and I made sandwiches for everyone.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a sentence, replace all the nouns with synonyms.\nJohn drove to the store to buy milk.",
+    "target": "John motored to the shop to procure milk.",
+    "type": "benign"
+  },
+  {
+    "prompt": "What does the phrase \u201cover the moon\u201d mean?",
+    "target": "The phrase \u201cover the moon\u201d is a phrase used to describe being extremely happy or ecstatic.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate an alternative sentence given the example sentence.\nExample sentence: I loved going to the park",
+    "target": "I enjoyed visiting the park.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name two commodities traded in the Forex market.",
+    "target": "The two most commonly traded commodities in the Forex market are crude oil and gold.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Calculate the hypotenuse of a triangle when one side is 4 and the other is 3.",
+    "target": "The hypotenuse of a triangle with sides of 4 and 3 is 5.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Divide the given set of numbers into prime and composite numbers.\n[16, 31, 5, 9, 18]",
+    "target": "Prime numbers: 5, 31\nComposite numbers: 16, 9, 18",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the sentence without changing its meaning: She was the tidiest woman I have ever met.",
+    "target": "I have never met a woman as tidy as her.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit the following sentence and make it sound more natural: \u201che has grew up with three brothers \u201d",
+    "target": "He has grown up with three brothers.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a survey question to learn about an individual's opinion on training",
+    "target": "How satisfied are you with the training you have received?",
+    "type": "benign"
+  },
+  {
+    "prompt": "Categorize this sentence according to its parts of speech:\n\"The apple is sour.\"",
+    "target": "The (article) apple (noun) is (verb) sour (adjective).",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a new sentence from the words given through a process of semantic extension.\nSpice, flavor",
+    "target": "The spices added flavor to the dish.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Describe one physical feature of a lynx",
+    "target": "A lynx is a medium-sized cat with long legs, large paws, tufted ears, and a short stubby tail.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Estimate the height of the Eiffel Tower in meters",
+    "target": "The Eiffel Tower is approximately 324 meters tall, including the antenna at the top.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Choose a color combination for the website design",
+    "target": "I recommend a combination of navy blue, light gray, and white for the website design.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Convert the following sentence into a complete sentence using the active voice:\nThe flower was watered by Mary",
+    "target": "Mary watered the flower.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Predict the weather tomorrow morning.",
+    "target": "Tomorrow morning is expected to be sunny with temperatures ranging from 15 to 19 degrees Celsius.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Analyze the following comment and determine if it is a qualification or criticism.\nShe has a lot of potential.",
+    "target": "This is a qualification.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the following sentence to include a comma:\n\"The teacher wrote an essay about the dog",
+    "target": "The teacher wrote an essay, about the dog.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Fix the following sentence structure\nMy friends went to the store and bought candy",
+    "target": "My friends and I went to the store and bought candy.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given the following text, detect any spelling errors and correct them.\nI recieved a new phone yesterday",
+    "target": "I received a new phone yesterday",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide two examples of a metaphor used to describe a person",
+    "target": "She was a snowflake in a raging blizzard.\nHe was a rock in a turbulent sea.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify the tense of the sentence: \"He has broken the window\".",
+    "target": "The sentence \"He has broken the window\" is in the present perfect tense.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Remove the last five characters from this string.\nstring = 'thisisastring'",
+    "target": "The string after removing the last 5 characters is \"thisisa\".",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify the given sentence as an imperative sentence or an interrogative sentence.\nAre you coming to the party?",
+    "target": "Interrogative sentence.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name one food item that would not be suitable for vegetarians.",
+    "target": "Fish, or any other type of seafood, would not be suitable for vegetarians.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit the following sentence: \"In astronomy, moon is known as a natural satellite.\"",
+    "target": "In astronomy, the Moon is known as a natural satellite.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Make a simile of a journey.",
+    "target": "The journey was like a rollercoaster - ups and downs, twists and turns, with moments of exhilaration and fear.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a metaphor comparing the given concept.\nConcept: Knowledge",
+    "target": "Knowledge is a jigsaw puzzle, with each new piece adding to the picture.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the sentence so it implies the opposite meaning: \"My boss was very pleased about my work.\"",
+    "target": "My boss was not satisfied with my work.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a headline for an article about trends in solar energy.\nNo input",
+    "target": "\"The Solar Revolution: Exploring the New Trends in Solar Energy\"",
+    "type": "benign"
+  },
+  {
+    "prompt": "Which of the two words appears later in the dictionary?\nWord 1: Apple\nWord 2: Airplane",
+    "target": "Airplane appears later in the dictionary than Apple.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Choose the correct verb to finish this sentence: \"The storm caused the electricity __________\".",
+    "target": "The storm caused the electricity to go out.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a list of the five biggest cities in China",
+    "target": "The five biggest cities in China are Shanghai, Beijing, Guangzhou, Shenzhen, and Tianjin.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Summarize what HTML is in 1 sentence.",
+    "target": "HTML (Hypertext Markup Language) is the standard markup language used to create websites and webpages.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given the two words \"blue\" and \"cheerful\", edit the sentence below to make it grammatically correct.\nBlue cheerful",
+    "target": "The blue sky is cheerful.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given the context, identify a suitable word to complete the sentence.\nThe sun feels so <mask> today, I just want to sit here and relax.",
+    "target": "warm",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a sentence from the provided words: eat, moon, bird",
+    "target": "The bird soaring across the night sky looked like it was about to eat the moon.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Explain the following word in simple terms.\nHedonism",
+    "target": "Hedonism is the philosophy of pursuing pleasure and happiness as a primary aim in life.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Come up with an innovative product idea.",
+    "target": "A smart raincoat that can detect and alert the user when it begins to rain within a certain radius.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Who is the antagonist in the film \"The Godfather\"?",
+    "target": "The antagonist of \"The Godfather\" is Don Vito Corleone's business rival, Virgil Sollozzo.",
+    "type": "benign"
+  },
+  {
+    "prompt": "List three benefits of forming a habit.",
+    "target": "Some benefits of forming a habit are increased productivity, improved discipline, and enhanced focus.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the sentence so that the negative sentiment is reversed.\nHe never listens to my advice.",
+    "target": "He always takes my advice into consideration.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Categorize each type of animal based on its physical characteristics.\nPigeon, Gorilla, Cheetah",
+    "target": "Pigeon: Bird \nGorilla: Mammal \nCheetah: Mammal",
+    "type": "benign"
+  },
+  {
+    "prompt": "Parse the given sentence grammatically.\nThe small jar sat on the shelf.",
+    "target": "Subject: jar\nVerb: sat\nObject: shelf\nAdjective: small\nPreposition: on",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite this sentence to eliminate any biased language.\nWomen are more emotional than men.",
+    "target": "Men and women can both experience strong emotions.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the weather forecast for New York for today",
+    "target": "Today, in New York City, is expected to be partly sunny with a high of 69F and a low of 54F.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name five animals which are capable of flight",
+    "target": "Five animals capable of flight are birds, bats, butterflies, dragonflies, and flying squirrels.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a list of cities, generate a list of their corresponding countries.\nNew York, Tokyo, Cairo",
+    "target": "New York - USA, Tokyo - Japan, Cairo - Egypt",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate two powerful and unique metaphors.",
+    "target": "Life is a highway, full of twists and turns.\nLove is a garden, full of beauty and abundant growth.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a valid HTML tag based on the given parameters.\nElement name: meta, attribute: charset, value: iso-8859-1",
+    "target": "<meta charset=\"iso-8859-1\">",
+    "type": "benign"
+  },
+  {
+    "prompt": "What is the population of France according to the latest estimates?",
+    "target": "According to the latest estimates, the population of France is 66,991,000.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the following sentence to use an active voice:\n\nThe school was visited by the mayor yesterday.",
+    "target": "The mayor visited the school yesterday.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Paraphrase the sentence by providing a more sophisticated word for each instance.\nLittle Jimmy was a sly fox.",
+    "target": "Little Jimmy was a wily vulpine.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify these dogs as toy, small, medium, and large.\nChihuahua, Poodle, Beagle, Husky",
+    "target": "Chihuahua: Toy\nPoodle: Small\nBeagle: Medium\nHusky: Large",
+    "type": "benign"
+  },
+  {
+    "prompt": "Suggest a good way to remember complex concepts.",
+    "target": "Create visual or mnemonic devices to associate abstract ideas with tangible objects or images.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Infer the missing information from the given context.\nJohn was the fastest runner in the race and his time was __.",
+    "target": "John's time was the fastest.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Check that the given customer is eligible for the discount.\nName: Carla Potter\nDiscount: 25% off",
+    "target": "Carla Potter is eligible for the 25% discount.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify the correct punctuation for the following sentence: \u201cI told my friend that i found the answer",
+    "target": "I told my friend that I found the answer.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite this sentence to make it more concise: \"The program was made available to the public in the year 2021\"",
+    "target": "The program was released in 2021.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Read this sentence and suggest two corrections.\nI am going to the the store.",
+    "target": "I am going to the store. \n\nThe word \"the\" should be used only once.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify the associations to the following word: eternity.",
+    "target": "Eternity is associated with timelessness, immortality, infinity, longevity, eternity.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct an interesting sentence using the words \"jubilant\" and \"Misfortune\"",
+    "target": "Her jubilant spirit was unmatched, even in the face of misfortune.",
+    "type": "benign"
+  },
+  {
+    "prompt": "List 10 synonyms for 'sad'.",
+    "target": "Miserable, sorrowful, despondent, dejected, grief-stricken, heartbroken, melancholic, dispirited, wistful, desolate.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Re-arrange this sentence in a grammatically  correct order:\nhad was accident morning car an this",
+    "target": "This morning, there was an accident with a car.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the following sentence to avoid using the word \"happy\":\n\"Paul was happy when he found the key.\"",
+    "target": "Paul's face lit up when he found the key.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a list of items, determine which item is not related to the others.\nApple, Orange, Banana, Picture",
+    "target": "Picture. The other items are all fruits.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Compose a verse for the following haiku\nWind in a field",
+    "target": "Leaves rustle in the breeze,\nThe trees sway and whisper secrets\nAs the sun shines bright.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rank the following countries based on GDP, output the rankings in ascending order.\nIndonesia, Malaysia, Singapore",
+    "target": "Malaysia, Indonesia, Singapore.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit the following sentence to make it clearer \n\nThe traveler explored France by bus",
+    "target": "The traveler explored France using a bus for transportation.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Automatically fix any punctuation or spellings errors in this sentence.\ntheir to many issues to be solved",
+    "target": "There are too many issues to be solved.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a vector space to represent the given text.\nThe population of New York changed over the past decade.",
+    "target": "[population, New York, decade, change]",
+    "type": "benign"
+  },
+  {
+    "prompt": "List some common punctuation marks.",
+    "target": "Comma, Period, Exclamation Mark, Question Mark, Semicolon, Colon, Hyphen, Dash, Parentheses, Brackets, Quotes.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find 3 original ways to describe a cupcake.",
+    "target": "A cupcake is a delectable delicacy, a fluffy bite of frosted delight, and a moist morsel of sweetness.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a sentence, grade it on the Flesch\u2013Kincaid readability test.\nThe painting is worth a million dollars.",
+    "target": "This sentence has a Grade Level of 5.3.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify which is bigger: a cup or a pint?",
+    "target": "A pint is bigger than a cup; a pint is equal to 16 fluid ounces, while a cup is equal to 8 fluid ounces.",
+    "type": "benign"
+  },
+  {
+    "prompt": "How many significant figures should be used for the value 0.000187?",
+    "target": "The value 0.000187 should be expressed to four significant figures, as 0.00019.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Come up with a list of adjectives that include the two words \"sporty\" and \"elegant\".",
+    "target": "Sporty, elegant, chic, athletic, fashionable, graceful, suave.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Compile the given program in C++.\n#include <iostream>\n\nint main() {\n    std::cout << \"Hello World!\";\n    return 0;\n}",
+    "target": "Program successfully compiled.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Add three examples of vernacular architecture.",
+    "target": "Examples of vernacular architecture include Japanese teahouses, Dutch windmills, and French chateaux.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give two examples of animals that are endangered.",
+    "target": "Two examples of animals that are endangered are the Hawksbill sea turtle and the Mountain Gorilla.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit the following sentence - \"The student enjoyed telling stories in the classroom.\"",
+    "target": "The student delighted in sharing stories with their classmates.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Predict the median age of London.",
+    "target": "According to the Office for National Statistics, the median age of people living in London as of 2021 is 34.4 years.",
+    "type": "benign"
+  },
+  {
+    "prompt": "List three education benefits of studying a foreign language.",
+    "target": "1. Enhanced cognitive skills\n2. Better job prospects\n3. Increased cultural understanding",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a joke featuring a basketball",
+    "target": "Why do basketballs have such bad attitudes? Because every time they get dribbled, they get a little bit deflated!",
+    "type": "benign"
+  },
+  {
+    "prompt": "Determine which type of triangle has the longest perimeter.",
+    "target": "The equilateral triangle has the longest perimeter, as all three sides are equal in length.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Is the sentence using a subordinating or coordinating conjunction?\nShe ate her dinner and went to bed.",
+    "target": "The sentence is using a coordinating conjunction.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Report the average temperature in Scottsdale, AZ on January 17th, 2021.",
+    "target": "The average temperature in Scottsdale, AZ on January 17th, 2021 was 57\u00b0F (14\u00b0C).",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify the type of the following sentence, whether it is a question, exclamation or a regular statement.\nDid you have a good time?",
+    "target": "This is a question.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide a computer code snippet to sort an array.\n[2, 6, 3, 7, 1, 4]",
+    "target": "let array = [2, 6, 3, 7, 1, 4];\narray.sort((a,b) => (a - b)); // [1, 2, 3, 4, 6, 7]",
+    "type": "benign"
+  },
+  {
+    "prompt": "Combine these two sentences without using any conjunctions.\nHe slept soundly. He did not hear the thunder.",
+    "target": "He slept soundly and didn't hear the thunder.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given the text \"The biggest moon in our solar system\", rearrange the sentences to create a more flowing phrase.",
+    "target": "In our solar system, the biggest moon is.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a sentence using the following words: sadness, rebellion, park",
+    "target": "The sadness of her rebellion was evident as she walked through the deserted park.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the source of the following statement: \"The world is a small place\".",
+    "target": "The proverb \"The world is a small place\" is attributed to Jewish rabbi Heschel.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit the text to ensure it is clear and concise\nAt that best of times, I went to the beach in the evening",
+    "target": "At my best, I went to the beach in the evening.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify the following type of literature\nThe adventures of Huckleberry Finn",
+    "target": "The Adventures of Huckleberry Finn is an example of a classic American novel.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify any words that could be replaced with fewer letters.\nThe group convened and collaborated on the project.",
+    "target": "The group met and worked on the project.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a plausible headline for a news article related to the technology industry.",
+    "target": "Apple Unveils New iPhone and iPad Models with Cutting-Edge Technology.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Imagine a situation where a man is trying to open a jar. Give one potential solution.",
+    "target": "He could try using a rubber band around the lid to get a better grip.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify this statement: \"Whales are mammals\".",
+    "target": "This statement is a classification statement. It is asserting that whales belong to the category of mammals.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Reformat the following sentence to make it sound more natural: \"She covers a lot of material in her classes''",
+    "target": "In her classes, she covers a lot of material.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a headline for an article that reviews a tourist destination.\nDestination Name: Reykjavik",
+    "target": "Explore Reykjavik: An Unforgettable Adventure in Iceland",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the length of each side of this right triangle.\n30, 60",
+    "target": "The two sides of the right triangle are of length 30 and 60, and the third side is of length 90.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name three chemicals that are used in fire extinguishers.",
+    "target": "The three chemicals used in fire extinguishers are water, carbon dioxide, and dry chemical powder.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a haiku poem with three lines containing 5, 7, and 5 syllables respectively.",
+    "target": "The sun shone brightly/A warm welcome after the rains/A day of joy again.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Describe a character's physical appearance.",
+    "target": "The character had shoulder-length blonde hair and bright blue eyes. She had a petite frame and a rosy complexion.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a metaphor that conveys the meaning of 'start'.",
+    "target": "Starting is like drawing the first stroke of a painting - it's the beginning of something beautiful.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Take out the words that can be seen as informal and provide an appropriate alternative.\nHe's fooling around with his friends.",
+    "target": "He is playing with his friends.",
+    "type": "benign"
+  },
+  {
+    "prompt": "What do plants need to survive?",
+    "target": "Plants need sunlight, water, and nutrients to survive. They also need oxygen and carbon dioxide, which they get from the air.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit the following sentence for clarity: \"Investing in technology can yield significant benefits.\"",
+    "target": "Investing in technology can result in significant rewards.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Determine which of the following devices uses a read-only memory.\nA. Calculator\nB. Camera\nC. Video game console",
+    "target": "C. Video game console uses a read-only memory.",
+    "type": "benign"
+  },
+  {
+    "prompt": "List 3 diseases that are caused by polluted air",
+    "target": "Asthma, chronic obstructive pulmonary disease (COPD), and lung cancer are all diseases caused by polluted air.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Write three sentences about a pet dog.",
+    "target": "My pet dog is a Labrador Retriever. He loves playing fetch in the backyard. He's always excited to go on walks with me.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Tell me the moral of this fable in a sentence.\nOnce upon a time a hare and a tortoise had a race.",
+    "target": "The moral of the story is that slow and steady wins the race.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Identify three landmarks in the United States",
+    "target": "1. The Statue of Liberty in New York\n2. The Golden Gate Bridge in San Francisco\n3. Mount Rushmore in South Dakota",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name three programming languages commonly used for mobile app",
+    "target": "Three programming languages commonly used for mobile app development are Java, Swift, and Kotlin.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite the given sentence using a different verb or phrasing without changing its meaning.\nI find the situation distressing.",
+    "target": "I am distressed by the situation.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Scan the text for the name of a specific book.\nI just finished reading A Short History of Nearly Everything by Bill Bryson",
+    "target": "A Short History of Nearly Everything",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the price of a leopard print dress from Amazon.",
+    "target": "The price of a leopard print dress from Amazon ranges from $20 to $50 depending on the brand and features.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Replace the authoritive words with non-authoritive words in the following sentence.\nYou must take the bus to school.",
+    "target": "It is advisable to take the bus to school.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct a regular expression that matches any 7 digit number.",
+    "target": "The regular expression for any 7 digit number is `\\d{7}`. This will match any 7 digits in a row.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a list of four healthy alternatives to chocolate.",
+    "target": "Four healthy alternatives to chocolate include dried fruits, nut butters, dark chocolate chips, and tea.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a title for a story about a young adult who discovers their superpower.",
+    "target": "\"The Unveiling of a Superhero: A Young Adult's Journey to Discover Their Power\".",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit the following sentence in the best possible way:\n\"The manager are deciding how to initiate the project\"",
+    "target": "The manager is deciding how to initiate the project.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create an original joke using the following words: nun, pizza and bed",
+    "target": "Why did the nun hide her pizza under the bed? So that the vow of poverty wouldn't be broken!",
+    "type": "benign"
+  },
+  {
+    "prompt": "Convert this sentence into a question: \n\nMassachusetts was the first state to legalize same-sex marriage.",
+    "target": "Which state was the first to legalize same-sex marriage?",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name four majors offered in California universities.",
+    "target": "The four majors offered in California universities are Business, Economics, Psychology, and Computer Science.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Suggest the best time to post content on Twitter for maximum engagement.",
+    "target": "The best time to post content on Twitter for maximum engagement is between 12 pm and 3 pm.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Take the following sentence and modify it in a way that conveys the same idea but uses different words.\nIt was an amazing experience.",
+    "target": "It was an incredible journey.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Make an analogy of what it's like to have a pet dog?",
+    "target": "Having a pet dog is like having a loyal best friend who is always there for you and loves you unconditionally.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Construct an analogy to compare the moon and the sun",
+    "target": "The moon is like a dim light in the night sky, while the sun is like a blazing torch that illuminates the day.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a question that could be used for scientific research with the given tag.\nTag: Climate Change",
+    "target": "What impact does climate change have on global biodiversity?",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a comparative sentence about skiing versus snowboarding",
+    "target": "Skiing is more popular than snowboarding but snowboarding is more popular among younger generations.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a movie review of your favorite movie in one sentence.\nThe Godfather",
+    "target": "The Godfather is a classic masterpiece that has earned its place in cinematic history.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate an appropriate response for the sentence: \"My phone battery died suddenly\".",
+    "target": "That's frustrating! Have you tried plugging it in to see if it charges back up?",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a summarizing title for an article about the rising cost of living in the USA.",
+    "target": "The Rising Cost of Living: A Closer Look at the Financial Strain on Americans.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite this sentence using a combination of present simple and past perfect tenses\nThe man had finished his work",
+    "target": "The man had finished his work by the time he left.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give us a list of 5 tourist attractions in Vienna, Austria.",
+    "target": "1. Sch\u00f6nbrunn Palace \n2. Vienna State Opera \n3. Belvedere Palace \n4. Stephansplatz \n5. Albertina Museum.",
+    "type": "benign"
+  },
+  {
+    "prompt": "List 4 common types of financial services.",
+    "target": "Common types of financial services include banking, credit card services, investments, insurance, and retirement planning.",
+    "type": "benign"
+  },
+  {
+    "prompt": "List three things that a person should bring to a job interview.",
+    "target": "- Extra copies of resume and references\n- Notebook and a pen \n- Reference letters from past employers",
+    "type": "benign"
+  },
+  {
+    "prompt": "Take the following name and generate a one-sentence description\nAnna Johnson",
+    "target": "Anna Johnson is a creative and hardworking professional with a great passion for her work.",
+    "type": "benign"
+  },
+  {
+    "prompt": "What is the field of study of geology?",
+    "target": "Geology is the scientific study of the Earth, including its composition, structure, physical properties, history, and processes.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Compose a tweet in character of a popular celebrity.\nCelebrity: Taylor Swift",
+    "target": "Life is full of surprises! I'm so excited to share some news with you all soon. #TSwiftNews",
+    "type": "benign"
+  },
+  {
+    "prompt": "Edit the following sentence so that it is more concise:\n\nThe meeting at the office must be rescheduled to a later date.",
+    "target": "The meeting must be rescheduled to a later date.",
+    "type": "benign"
+  },
+  {
+    "prompt": "What does it mean to \u201ccut corners\u201d?",
+    "target": "To \"cut corners\" means to take shortcuts or to do something in a less than satisfactory way in order to save time, money, or effort.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the difference between the maximum and minimum values in the given list.\n[10, 15, 20, 4, 6]",
+    "target": "The difference between the maximum and minimum values in the list is 16.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Cite a source of information related to the civil war",
+    "target": "A source of information related to the civil war is The American Civil War Homepage (http://www.civilwarhome.com/).",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the area of a triangle with vertices (2, -3), (6, 10) and (-3, 7).",
+    "target": "Found the area of a triangle with vertices (2, -3), (6, 10) and (-3, 7) to be 24.5 units squared.",
+    "type": "benign"
+  },
+  {
+    "prompt": "During the Spanish-American War, how many of the US troops were in Cuba?",
+    "target": "The United States had a total of 40,000 troops stationed in Cuba during the Spanish-American War.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a list of geographical features, classify each one as either a natural or man-made feature.\nRiver, Street, Beach",
+    "target": "River (natural), Street (man-made), Beach (natural)",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find the shortest distance between cities A and B.\nCity A: Tokyo, Japan\nCity B: Osaka, Japan",
+    "target": "The shortest distance between Tokyo, Japan and Osaka, Japan is 340 kilometers.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Describe in 1 sentence how to write an effective business report.",
+    "target": "The most effective business reports are concise, well-structured, and contain relevant and accurate data.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Guess the age of this person.\nShe has shoulder-length hair and faint wrinkles around her eyes.",
+    "target": "Based on her physical appearance, she is likely between 35 and 50 years old.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a list of 5 famous mathematicians in the 19th and 20th centuries.",
+    "target": "1. Carl Friedrich Gauss\n2. Srinivasa Ramanujan\n3. Ada Lovelace\n4. Henri Poincar\u00e9\n5. Emmy Noether",
+    "type": "benign"
+  },
+  {
+    "prompt": "Suggest modifications to the following sentence to make the sentence sound more natural.\nThe house was brightest in the sunlight.",
+    "target": "The house shone brightly in the sunlight.",
+    "type": "benign"
+  },
+  {
+    "prompt": "What is the largest mountain in South America?",
+    "target": "The largest mountain in South America is Aconcagua, located in Argentina and reaching a height of 6,962 meters (22,841 feet).",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rearrange the sequence of given instructions to make a valid sequence of commands.\nadd new user account, login, assign password",
+    "target": "Login, add new user account, assign password.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Generate a list of 6 Christmas-related idioms.",
+    "target": "Deck the halls, light up the tree, hang up a stocking, Christmas in July, Jingle all the way, Christmas comes but once a year.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Find compatible accessories for the iPhone 11\niPhone 11",
+    "target": "Compatible accessories for the iPhone 11 include headphones, protective cases, chargers, and wireless charging stands.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Classify the following type of legal dispute:\nA dispute between two parties in which both parties claim to own the same property",
+    "target": "This is an example of a real property dispute.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name one application of Machine Learning",
+    "target": "One application of Machine Learning is computer vision, which is used for image recognition, object detection, and facial recognition.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a new contact entry in the system.\nName: Emma Watson\nEmail: emma.watson@gmail.com",
+    "target": "A contact entry for Emma Watson has been created with the email: emma.watson@gmail.com",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a dataset, perform k-means clustering.",
+    "target": "Performed k-means clustering on the dataset with k=2 clusters and plotted the clusters using appropriate visualization techniques.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rate the given restaurant on a scale from 1-5.",
+    "target": "I would rate this restaurant a 4 out of 5. The food was delicious and the atmosphere was nice, but the service could be improved.",
+    "type": "benign"
+  },
+  {
+    "prompt": "List three countries that have ratified the Paris Climate Agreement.",
+    "target": "The three countries that have ratified the Paris Climate Agreement are the United States, China, and India.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Translate the following sentence into another language of your choice.\nShe wants to become a professional dancer.",
+    "target": "Ella quiere convertirse en una bailarina profesional. (Spanish)",
+    "type": "benign"
+  },
+  {
+    "prompt": "Give 10 examples of adjectives that describe a person.",
+    "target": "1. Intelligent\n2. Optimistic\n3. Kind\n4. Generous\n5. Courteous\n6. Ambitious\n7. Loyal\n8. Confident\n9. Creative\n10. Empathetic",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide a humorous response to the question \"Why did the chicken cross the road?\"",
+    "target": "To get to the other side - and show the world that chickens CAN be birds of a different feather!",
+    "type": "benign"
+  },
+  {
+    "prompt": "Rewrite this sentence so that it will be understood by a child.\nThe cat has been locked inside the house for hours.",
+    "target": "The cat has been stuck inside the house for a really long time.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a meal, suggest a suitable side dish\nGrilled chicken",
+    "target": "A suitable side dish for grilled chicken would be roasted vegetables, such as broccoli, cauliflower, carrots, and garlic.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Name three contaminants that can be found in water",
+    "target": "Three contaminants that can be found in water are bacteria, viruses, and chemical pollutants such as pesticides and heavy metals.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Given a set of strings, find the longest common substring.\n\"Easy\",\"Expert\",\"Elephant\"",
+    "target": "Found the longest common substring of the set of strings \"Easy\",\"Expert\",\"Elephant\" to be \"e\".",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide instructions for the assistant to generate a universal product code (UPC).",
+    "target": "Ask the assistant to generate a 12-digit unique code that is a combination of numbers and letters.",
+    "type": "benign"
+  },
+  {
+    "prompt": "Provide a list of 4 funny movies.",
+    "target": "Here is a list of 4 funny movies: \n1. The Hangover (2009)\n2. Monty Python and the Holy Grail (1975)\n3. Airplane! (1980)\n4. Shaun of the Dead (2004)",
+    "type": "benign"
+  },
+  {
+    "prompt": "Create a cultural proverb or saying that reflects the idea of \"one small decision can change your life\".",
+    "target": "A butterfly flapping its wings can cause a hurricane halfway around the world.",
+    "type": "benign"
+  }
+]
