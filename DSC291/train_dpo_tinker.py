@@ -409,7 +409,7 @@ if __name__ == "__main__":
                         help="Learning rate (default: 5e-6 for DPO)")
     parser.add_argument("--dpo_beta", type=float, default=0.1,
                         help="DPO beta parameter (default: 0.1)")
-    parser.add_argument("--num_epochs", type=int, default=2,
+    parser.add_argument("--num_epochs", type=int, default=1,
                         help="Number of training epochs (default: 1 for DPO)")
     parser.add_argument("--batch_size", type=int, default=64,
                         help="Batch size (default: 4, effective size is 8 with pairs)")

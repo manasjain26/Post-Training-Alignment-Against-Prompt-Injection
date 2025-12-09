@@ -279,9 +279,9 @@ if __name__ == "__main__":
                         help="Output directory for checkpoints")
     parser.add_argument("--lora_rank", type=int, default=32,
                         help="LoRA rank (higher = more capacity, default: 32)")
-    parser.add_argument("--learning_rate", type=float, default=5e-5,
+    parser.add_argument("--learning_rate", type=float, default=1e-5,
                         help="Learning rate (default: 5e-5 for safety fine-tuning)")
-    parser.add_argument("--num_epochs", type=int, default=2,
+    parser.add_argument("--num_epochs", type=int, default=1,
                         help="Number of training epochs (default: 2 for 20K samples)")
     parser.add_argument("--batch_size", type=int, default=8,
                         help="Batch size (default: 8 for 3B model)")
@@ -305,5 +305,5 @@ if __name__ == "__main__":
     if model_name:
         print(f"\n✅ Training successful! Model name: {model_name}")
         print(f"\nTo evaluate your model, run:")
-        print(f"  python evaluate_sft.py --model_id 'tinker://{sampling_path}'")
+        print(f"  python evaluate_sft.py --model_id {sampling_path}")
 
