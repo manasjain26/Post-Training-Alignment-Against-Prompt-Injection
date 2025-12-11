@@ -152,4 +152,4 @@ University of California, San Diego
 
 ## License
 
-See repository for license details.
+This code is provided for research and educational purposes only. 
